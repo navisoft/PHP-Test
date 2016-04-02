@@ -1,0 +1,1 @@
+<a href="{{ url('/') }}/active?code={{ $user['active_token'] }}">Active Account.</a>
